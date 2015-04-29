@@ -1,0 +1,3 @@
+Implemented C-Means clustering using training set.
+CMeansByMe.ipynb contains code which had been implemented by me from scratch. It creates 3 clusters.
+While in "c-means cluster.ipynb" I have used built-in python packages. It contains code for 3, 4 and 5 clusters.
